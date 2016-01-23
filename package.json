@@ -26,6 +26,7 @@
     "mocha": "^2.3.4"
   },
   "dependencies": {
-    "my-ascii-tree": "^1.0.1"
+    "broccoli-filter": "^1.2.3",
+    "my-ascii-tree": "^1.0.3"
   }
 }
