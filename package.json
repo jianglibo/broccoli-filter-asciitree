@@ -1,0 +1,31 @@
+{
+  "name": "broccoli-filter-asciitree",
+  "version": "1.0.0",
+  "description": "convert indented line blocks to an ascii tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianglibo/broccoli-filter-asciitree.git"
+  },
+  "keywords": [
+    "ascii",
+    "tree",
+    "broccoli",
+    "filter"
+  ],
+  "author": "jianglibo <jianglibo@gmail.com> (http://www.m3958.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianglibo/broccoli-filter-asciitree/issues"
+  },
+  "homepage": "https://github.com/jianglibo/broccoli-filter-asciitree#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "my-ascii-tree": "^1.0.1"
+  }
+}
